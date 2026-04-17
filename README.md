@@ -30,16 +30,16 @@ Los tamaños evaluados fueron variables, aumentando progresivamente para observa
 
 * **Python**
 * **Librerías:**
-  * `time` → para medir el tiempo de ejecución.
-  * `random` → para medir el tiempo de ejecución.
+  * time para medir el tiempo de ejecución.
+  * random para medir el tiempo de ejecución.
 
 
 ## Implementación
 
 Se implementaron algoritmos con diferentes complejidades temporales:
 
-* **Búsqueda Lineal** → `O(n)`
-* **Búsqueda Binaria** → `O(log n)`
+* **Búsqueda Lineal** → O(n)
+* **Búsqueda Binaria** → O(log n)
 
 La búsqueda lineal recorre secuencialmente los elementos hasta encontrar el valor deseado.
 La búsqueda binaria divide repetidamente el conjunto de datos en mitades, reduciendo significativamente el número de comparaciones.
@@ -50,6 +50,6 @@ La búsqueda binaria fue más rápida que la lineal, demostrando que los algorit
 
 ## Equipo
 
-David Osorio 
-Daniel Sanchez
-Stiven Romero
+* David Osorio 
+* Daniel Sanchez
+* Stiven Romero
