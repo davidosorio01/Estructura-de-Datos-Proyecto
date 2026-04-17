@@ -17,19 +17,16 @@ Analizar el comportamiento y rendimiento de diferentes algoritmos mediante la no
 * Comprender el concepto de complejidad algorítmica.
 * Implementar algoritmos con diferentes órdenes de complejidad.
 * Medir y comparar tiempos de ejecución.
-* Analizar el impacto del tamaño de entrada en el rendimiento.
 
 ## Dataset
 
-Se utilizaron **listas y valores generadas aleatoriamente** para simular diferentes tamaños de entrada, permitiendo medir el comportamiento de los algoritmos bajo distintos tamaños de datos.
+Se utilizaron listas y valores generadas aleatoriamente para simular diferentes tamaños de entrada, permitiendo medir el comportamiento de los algoritmos bajo distintos tamaños de datos.
 
 Los tamaños evaluados fueron variables, aumentando progresivamente para observar cómo escala el tiempo de ejecución.
 
 
 ## Tecnologías Utilizadas
-
-* **Python**
-* **Librerías:**
+Librerías:
   * time para medir el tiempo de ejecución.
   * random para medir el tiempo de ejecución.
 
@@ -38,8 +35,8 @@ Los tamaños evaluados fueron variables, aumentando progresivamente para observa
 
 Se implementaron algoritmos con diferentes complejidades temporales:
 
-* **Búsqueda Lineal** → O(n)
-* **Búsqueda Binaria** → O(log n)
+* **Búsqueda Lineal** O(n)
+* **Búsqueda Binaria** O(log n)
 
 La búsqueda lineal recorre secuencialmente los elementos hasta encontrar el valor deseado.
 La búsqueda binaria divide repetidamente el conjunto de datos en mitades, reduciendo significativamente el número de comparaciones.
